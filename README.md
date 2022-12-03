@@ -4,7 +4,7 @@ Wassima</a></h1>
 <br>
 <br>
 <a target="_blank" align="center">
-  <img align="right" top="100" alt="GIF" src="https://github.com/wassima-manssour/wassima-manssour-portfolio/blob/main/images/giphy.gif">
+  <img align="right" top="100" width="450" alt="GIF" src="https://github.com/wassima-manssour/wassima-manssour-portfolio/blob/main/images/giphy.gif">
 </a>
 
 
