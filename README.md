@@ -52,7 +52,6 @@ Wassima</a></h1>
 ![Windows](https://img.icons8.com/color/30/windows-10.png)
 ![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)
 ![Linux](https://img.icons8.com/color/30/linux.png)
-![Console](https://img.icons8.com/color/30/console.png)
 
 <br/>
 
