@@ -28,6 +28,7 @@ Wassima</a></h1>
 - 👀  **I’m looking for a final year 6 months research internship in Artificial Intelligence | Deep learning | Machine learning | NLP | Data engineering | Data science**
 
 <br>
+
 ## :wrench: Technologies
 ![python](https://img.icons8.com/color/30/python.png)
 ![java](https://img.icons8.com/color/30/java.png)
