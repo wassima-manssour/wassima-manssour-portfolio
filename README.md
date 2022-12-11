@@ -20,7 +20,7 @@ Wassima</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 📫 How to reach me **wmanssour@insea.ac.ma**
+- 📫 How to reach me **wmanssour@insea.ac.ma** | **wassima.mansssour@gmail.com**
 
 - 📄 Know about my experiences <a href="https://github.com/wassima-manssour/wassima-manssour-portfolio/blob/main/resume/Wassima_CV_2022.pdf target=b_blank" target="blank">Resume</a>
 
