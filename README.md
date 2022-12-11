@@ -3,10 +3,11 @@ Wassima</a></h1>
 <h3 align="center">A passionate Research Student in ML and DL from Morocco </h3>
 <br>
 <br>
-<a target="_blank" align="center">
-  <img align="right" top="100" width="450" alt="GIF" src="https://github.com/wassima-manssour/wassima-manssour-portfolio/blob/main/images/giphy.gif">
-</a>
+<p align="center">
+  <img  alt="GIF" src="https://github.com/wassima-manssour/wassima-manssour-portfolio/blob/main/images/giphy.gif">
+</p>
 
+<br>
 
 - 👩‍🎓 I'm actually a Master Student in <a href="https://insea.ac.ma/" target="blank">INSEA Rabat</a>
 
@@ -26,8 +27,7 @@ Wassima</a></h1>
 
 - 👀  **I’m looking for a final year 6 months research internship in Artificial Intelligence | Deep learning | Machine learning | NLP | Data engineering | Data science**
 
-<br/>
-
+<br>
 ## :wrench: Technologies
 ![python](https://img.icons8.com/color/30/python.png)
 ![java](https://img.icons8.com/color/30/java.png)
